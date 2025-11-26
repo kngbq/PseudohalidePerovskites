@@ -17,9 +17,9 @@ This repository contains Jupyter notebooks for data acquisition, preprocessing, 
 - **Goldschmidt Tolerance Factor** $(t)$  
   Measures the geometric stability of the perovskite structure:  
   
-  $$
+  $
   t = \frac{r_A + r_X}{\sqrt{2}(r_B + r_X)}
-  $$ 
+  $ 
    
   Typical stable cubic perovskite range: 
   
@@ -28,9 +28,9 @@ This repository contains Jupyter notebooks for data acquisition, preprocessing, 
 - **Octahedral Factor** $(\mu)$  
   Describes the suitability of the B-site cation to form a stable [BX₆] octahedron:  
   
-  $$
+  $
   \mu = \frac{r_B}{r_X}
-  $$  
+  $  
   
   Empirically stable range: $\mu > 0.414$
 
